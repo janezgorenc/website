@@ -363,6 +363,15 @@ Ponavadi gre za bolnike iz domov starejših občanov (DSO), ki so prestavljeni n
 </details>
 
 <details>
+  <summary id=metrics-correlation-chart>Kaj nam pove graf "Soodvisnosti primerov, hospitaliziranih in umrlih</summary>
+ 
+[Graf soodvisnosti](/sl/stats#metrics-correlation-chart) prikazuje časovno soodvisnost med številom potrjenih primerov, številom hospitaliziranih pacientov s COVID-19 ter številom umrih zaradi te bolezni. Vsak od treh grafov je prikazan na svoji številčnici, saj na ta način najlažje prikažemo, koliko časa po rasti novih potrjenih primerov okužb lahko pričakujemo porast števila hospitaliziranih ter koliko časa kasneje tudi rast smrti.
+
+Graf ponuja dva menija pogledov. Na meniju neposredno pod grafom lahko s klikom na “Potrjeni primeri”, na “Hospitalizirani” ali na “Umrli” vključimo ali izključimo posamično krivuljo. Pod prvim menijem pa lahko s klikom na ikoni “Po dnevih (7-dnevno povprečje)” in “Skupaj” menjamo med sedemdnevnim povprečjem in skupnim številom potrjenih primerov, hospitaliziranih ali umrlih.
+
+</details>
+
+<details>
   <summary id=excess-deaths-chart>Kaj nam pove graf "Presežne smrti"?</summary>
 
 [Graf](/sl/stats#excess-deaths-chart) prikazuje mesečno število umrlih v letu 2020 glede na podatke prejšnjih let. Izbirate lahko med dvema pogledoma: Primerjava po letih, kjer so letošnji podatki prikazani skupaj s podatki za leta 2010-2019 ter Presežek glede na zadnjih 5 let. Presežne smrti so izračunane kot odstotek povprečja za leta 2015-2019. Na tem grafu so tudi potrjene COVID-19 smrti, ki pa jih je manj kot vseh presežnih smrti. Razlog za to je, da COVID-19 smrti zunaj bolnišnic in DSO-jev (še) niso registrirane kot take, del presežka pa lahko predstavljajo tudi dodatne smrti kot posledica ukrepov, denimo slabšega dostopa do zdravstvenih storitev. Vir podatkov je centralni register prebivalstva pri MNZ in zajema vse smrti na področju Republike Slovenije kot tudi Slovencev v tujini, kar se razlikuje od podobnih podatkov, ki jih sicer objavlja SURS. Za zadnjih nekaj tednov so podatki še nepopolni in so možni še popravki. Potrjene COVID-19 smrti temeljijo na vladnih podatkih. 
